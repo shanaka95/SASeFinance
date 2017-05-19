@@ -3,3 +3,4 @@ SASeFinance is a python based Financial software.This can handle all the require
 Default username- Admin
 Password - aa
 \n\n/n/n
+uigigui
